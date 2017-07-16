@@ -9,3 +9,5 @@ The list contains my thoughts after reading
 * [新參者](https://hackmd.io/s/Bk3vxBB0)
 * [巴黎小書店](https://hackmd.io/s/SJ-GDDsDe)
 * [孤獨六講](https://hackmd.io/s/B1rDtgv_e)
+* [絕歌](https://hackmd.io/s/BJCASpOSb)
+
