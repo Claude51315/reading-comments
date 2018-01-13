@@ -10,4 +10,6 @@ The list contains my thoughts after reading
 * [巴黎小書店](https://hackmd.io/s/SJ-GDDsDe)
 * [孤獨六講](https://hackmd.io/s/B1rDtgv_e)
 * [絕歌](https://hackmd.io/s/BJCASpOSb)
+* [夢書迷宮](https://hackmd.io/s/BJB8_Iqhb)
+* [皇家賓館](https://hackmd.io/s/S1F33U9hW)
 
